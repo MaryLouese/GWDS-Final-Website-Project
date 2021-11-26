@@ -17,3 +17,14 @@ footer {
     background-color:lightskyblue;
 }
 
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+}
+
+/* homepage styles */
+
+.title-section {
+    background-color: darkkhaki;
+
+}

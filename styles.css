@@ -1,3 +1,18 @@
+/* Global styles */
+
 body {
     background-color: aliceblue;
+}
+
+header {
+    background-color: lightskyblue;
+}
+
+main {
+    background-color: #999;
+}
+
+
+footer {
+    background-color:lightskyblue;
 }
